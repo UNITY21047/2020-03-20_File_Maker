@@ -1,0 +1,11 @@
+C:\Users\werty\Downloads\assets\projects\2020-03-20_File_Maker\bin\Debug\netcoreapp3.1\2020-03-20_File_Maker.exe
+C:\Users\werty\Downloads\assets\projects\2020-03-20_File_Maker\bin\Debug\netcoreapp3.1\2020-03-20_File_Maker.deps.json
+C:\Users\werty\Downloads\assets\projects\2020-03-20_File_Maker\bin\Debug\netcoreapp3.1\2020-03-20_File_Maker.runtimeconfig.json
+C:\Users\werty\Downloads\assets\projects\2020-03-20_File_Maker\bin\Debug\netcoreapp3.1\2020-03-20_File_Maker.runtimeconfig.dev.json
+C:\Users\werty\Downloads\assets\projects\2020-03-20_File_Maker\bin\Debug\netcoreapp3.1\2020-03-20_File_Maker.dll
+C:\Users\werty\Downloads\assets\projects\2020-03-20_File_Maker\bin\Debug\netcoreapp3.1\2020-03-20_File_Maker.pdb
+C:\Users\werty\Downloads\assets\projects\2020-03-20_File_Maker\obj\Debug\netcoreapp3.1\2020-03-20_File_Maker.csprojAssemblyReference.cache
+C:\Users\werty\Downloads\assets\projects\2020-03-20_File_Maker\obj\Debug\netcoreapp3.1\2020-03-20_File_Maker.AssemblyInfoInputs.cache
+C:\Users\werty\Downloads\assets\projects\2020-03-20_File_Maker\obj\Debug\netcoreapp3.1\2020-03-20_File_Maker.AssemblyInfo.cs
+C:\Users\werty\Downloads\assets\projects\2020-03-20_File_Maker\obj\Debug\netcoreapp3.1\2020-03-20_File_Maker.dll
+C:\Users\werty\Downloads\assets\projects\2020-03-20_File_Maker\obj\Debug\netcoreapp3.1\2020-03-20_File_Maker.pdb
