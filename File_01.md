@@ -16,11 +16,8 @@
 * Save templates to a repository. <!--Maybe ?-->
 
 ## Resources ~
+<!--Place the links for each API and article when listing resources.-->
 
 
 
 ## Information On Files ~
-
-* File 02:
-
-     
